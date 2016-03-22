@@ -1,0 +1,5 @@
+*~
+shell.db
+*.o
+project
+.goutputstream*
